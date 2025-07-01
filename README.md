@@ -1,5 +1,4 @@
 # 🌊 Final Project – Water Quality Prediction (Polished & App-Enabled Version)
----
 
 This final version of the **Water Quality Prediction** project demonstrates a complete machine learning pipeline: from data preprocessing and multi-target regression to visualizations and an interactive web app using Streamlit. This project was developed as part of the **AICTE Virtual Internship** sponsored by **Shell**, conducted by **Edunet Foundation** in **June 2025**.
 
